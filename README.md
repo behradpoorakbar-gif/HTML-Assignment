@@ -1,2 +1,2 @@
 # HTML-Assignment
-<img src=./
+<img src="./main page.html/">
